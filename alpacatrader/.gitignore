@@ -1,0 +1,11 @@
+*.log
+*.txt
+*.csv
+.vscode/
+__pycache__/
+results/
+!pairs_difs.csv
+!pairs_lags.csv
+!calendar.csv
+!pairs.csv
+
